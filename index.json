@@ -1,10 +1,10 @@
 [
   {
     "name": "Torrentio Anime (Debrid)",
-    "lang": "all",
+    "lang": "en",
     "baseUrl": "https://torrentio.strem.fun",
     "apiUrl": "",
-    "iconUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/icons/torrentio.png",
+    "iconUrl": "https://raw.githubusercontent.com/AmberRose25/mangayomi/main/icons/torrentio.png",
     "typeSource": "torrent",
     "isManga": false,
     "itemType": 1,
