@@ -1,14 +1,16 @@
 [
   {
     "name": "Torrentio Anime (Debrid)",
-    "lang": "en",
+    "id": 715754010,
     "baseUrl": "https://torrentio.strem.fun",
-    "apiUrl": "",
-    "iconUrl": "https://raw.githubusercontent.com/AmberRose25/mangayomi/main/icons/torrentio.png",
+    "lang": "all",
     "typeSource": "torrent",
+    "iconUrl": "https://raw.githubusercontent.com/AmberRose25/mangayomi/main/icons/torrentio.png",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/AmberRose25/mangayomi/main/javascript/anime/src/all/torrentioanime.js",
+    "version": "0.0.3",
     "isManga": false,
     "itemType": 1,
-    "version": "0.0.3",
-    "pkgPath": "javascript/anime/src/all/torrentioanime.js"
+    "sourceCodeLanguage": 1,
+    "appMinVerReq": "0.5.0"
   }
 ]
